@@ -6,4 +6,11 @@
         <item>@string/guerreiro</item>
         <item>@string/mago</item>
     </string-array>
+    <string-array name="racas">
+        <item>@string/elfo</item>
+        <item>@string/anao</item>
+        <item>@string/licantropo</item>
+        <item>@string/undead</item>
+
+    </string-array>
 </resources>

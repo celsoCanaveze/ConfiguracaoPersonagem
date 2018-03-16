@@ -15,7 +15,9 @@
     <string name="bardo">Bardo</string>
     <string name="anao">Anão</string>
     <string name="elfo">Elfo</string>
-
+    <string name="licantropo">Licantropo</string>
+    <string name="undead">Undead</string>
+    <string name="lblracas">Raças</string>
 
 
 </resources>
